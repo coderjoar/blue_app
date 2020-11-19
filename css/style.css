@@ -220,7 +220,7 @@ button:hover{
 }
 
 .menu1{
-	width: 60%;
+	width: 69%;
 	/*border: 1px solid red;*/
 	overflow: hidden;
 	float: left;
@@ -235,7 +235,7 @@ button:hover{
 	font-size: 14px;
 	color: white;
 	text-decoration: none;
-	padding-right: 53px;
+	padding-right: 50px;
 }
 
 
@@ -251,7 +251,7 @@ button:hover{
 
 .logo1{
 	float: right;
-	width: 36%;
+	width: 31%;
 	/*border: 1px solid red;*/
 }
 .logo1 img{
